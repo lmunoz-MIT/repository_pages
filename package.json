@@ -1,0 +1,21 @@
+{
+  "name": "repository_pages",
+  "version": "1.0.0",
+  "description": "Pagina Web Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmunoz-MIT/repository_pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lmunoz-MIT/repository_pages/issues"
+  },
+  "homepage": "https://github.com/lmunoz-MIT/repository_pages#readme"
+}
